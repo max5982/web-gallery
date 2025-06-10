@@ -4,4 +4,10 @@ jinja2
 python-multipart
 sqlalchemy
 aiofiles
+pillow
+gunicorn
+locust
+PyMySQL
+cryptography
+opencv-python
 
